@@ -24,6 +24,7 @@ public class Customer {
 	private String status;
 	private Date registeredAt;
 	private Date lastPurchase;
+	private String typeOfPurchase;
 	private String[] tags;
 	private int satisfactionScore;
 
@@ -113,6 +114,14 @@ public class Customer {
 
 	public void setStatus(String status) {
 		this.status = status;
+	}
+
+	public String getTypeOfPurchase() {
+		return typeOfPurchase;
+	}
+
+	public void setTypeOfPurchase(String typeOfPurchase) {
+		this.typeOfPurchase = typeOfPurchase;
 	}
 
 }

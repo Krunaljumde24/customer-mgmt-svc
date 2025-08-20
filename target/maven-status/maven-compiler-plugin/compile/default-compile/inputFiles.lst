@@ -4,6 +4,8 @@ C:\Dev\Web\SpringBoot\customer-mgmt-svc\src\main\java\com\devspace\controller\Au
 C:\Dev\Web\SpringBoot\customer-mgmt-svc\src\main\java\com\devspace\controller\ControllerAdvice.java
 C:\Dev\Web\SpringBoot\customer-mgmt-svc\src\main\java\com\devspace\controller\CustomerController.java
 C:\Dev\Web\SpringBoot\customer-mgmt-svc\src\main\java\com\devspace\CustomerMgmtSvcApplication.java
+C:\Dev\Web\SpringBoot\customer-mgmt-svc\src\main\java\com\devspace\dto\CustomerReqDto.java
+C:\Dev\Web\SpringBoot\customer-mgmt-svc\src\main\java\com\devspace\dto\CustomerRespDto.java
 C:\Dev\Web\SpringBoot\customer-mgmt-svc\src\main\java\com\devspace\dto\LoginReqDto.java
 C:\Dev\Web\SpringBoot\customer-mgmt-svc\src\main\java\com\devspace\dto\LoginRespDto.java
 C:\Dev\Web\SpringBoot\customer-mgmt-svc\src\main\java\com\devspace\dto\SignupReqDto.java
@@ -15,4 +17,5 @@ C:\Dev\Web\SpringBoot\customer-mgmt-svc\src\main\java\com\devspace\repository\Us
 C:\Dev\Web\SpringBoot\customer-mgmt-svc\src\main\java\com\devspace\service\AuthService.java
 C:\Dev\Web\SpringBoot\customer-mgmt-svc\src\main\java\com\devspace\service\CustomerService.java
 C:\Dev\Web\SpringBoot\customer-mgmt-svc\src\main\java\com\devspace\service\CustomerUserDetailsService.java
+C:\Dev\Web\SpringBoot\customer-mgmt-svc\src\main\java\com\devspace\util\CommonUtils.java
 C:\Dev\Web\SpringBoot\customer-mgmt-svc\src\main\java\com\devspace\util\JwtUtil.java

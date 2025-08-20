@@ -8,11 +8,14 @@ com\devspace\config\JwtFilter.class
 com\devspace\repository\UserRepository.class
 com\devspace\service\CustomerService.class
 com\devspace\service\AuthService.class
+com\devspace\util\CommonUtils.class
 com\devspace\util\JwtUtil.class
 com\devspace\entity\User.class
 com\devspace\dto\LoginReqDto.class
 com\devspace\config\AppSecurity.class
+com\devspace\dto\CustomerReqDto.class
 com\devspace\entity\Customer.class
 com\devspace\repository\CustomerRepository.class
 com\devspace\dto\SignupReqDto.class
 com\devspace\controller\CustomerController.class
+com\devspace\dto\CustomerRespDto.class
